@@ -13,10 +13,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.annotation.WebServlet;
 
-/**
- *
- * @author Gyp
- */
 //@WebServlet(urlPatterns = {"About"})
 public class About extends HttpServlet {
 
