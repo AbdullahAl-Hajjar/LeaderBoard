@@ -12,10 +12,7 @@ import javax.persistence.NamedQuery;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
-/**
- *
- * @author Shariar
- */
+
 @Entity
 @Table(name = "username", catalog = "ScoreDB", schema = "")
 @NamedQueries({
