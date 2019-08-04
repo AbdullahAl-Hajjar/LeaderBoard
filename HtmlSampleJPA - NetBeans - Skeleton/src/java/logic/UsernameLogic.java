@@ -10,10 +10,7 @@ import java.util.Map;
 
 
 
-/**
- *
- * @author Shariar
- */
+
 public class UsernameLogic extends GenericLogic<Username,UsernameDAO> {
     
     public static final String PLAYER_ID = "id";
