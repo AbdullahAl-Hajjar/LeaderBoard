@@ -4,12 +4,7 @@ import dao.GenericDAO;
 import java.util.Map;
 import java.util.function.Supplier;
 
-/**
- *
- * @author Shariar
- * @param <E> - entity type
- * @param <T> - DAO type
- */
+
 public abstract class GenericLogic< E, T extends GenericDAO<E>>{
     
     private final T DAO;
