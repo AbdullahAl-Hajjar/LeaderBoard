@@ -17,10 +17,6 @@ import javax.persistence.Table;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
-/**
- *
- * @author Shariar
- */
 @Entity
 @Table(name = "player", catalog = "ScoreDB", schema = "")
 @NamedQueries({
