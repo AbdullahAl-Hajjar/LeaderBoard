@@ -13,10 +13,7 @@ import java.util.GregorianCalendar;
 import java.util.List;
 import java.util.Map;
 
-/**
- *
- * @author Gyp
- */
+
 public class ScoreLogic extends GenericLogic<Score, ScoreDAO>
  {
     
