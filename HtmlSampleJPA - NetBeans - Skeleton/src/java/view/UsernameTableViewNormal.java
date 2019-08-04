@@ -10,10 +10,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import entity.Username;
 
-/**
- *
- * @author Shariar
- */
 public class UsernameTableViewNormal extends HttpServlet {
 
     /**
