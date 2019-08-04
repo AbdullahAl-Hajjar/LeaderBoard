@@ -16,10 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import logic.UsernameLogic;
 
-/**
- *
- * @author Gyp
- */
+
 @WebServlet(name = "UsernameTable", urlPatterns = {"/UsernameTable"})
 public class UsernameTable extends HttpServlet {
 
