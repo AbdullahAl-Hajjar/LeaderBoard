@@ -7,10 +7,7 @@ import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 import javax.servlet.annotation.WebListener;
 
-/**
- * do not modify this class
- * @author Shariar
- */
+
 @WebListener
 public class EMFactory implements ServletContextListener{
     
