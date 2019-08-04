@@ -8,10 +8,7 @@ import java.util.List;
 import java.util.Map;
 
 
-/**
- *
- * @author Gyp
- */
+
 public class ScoreDAO extends GenericDAO<Score>
 {
 
