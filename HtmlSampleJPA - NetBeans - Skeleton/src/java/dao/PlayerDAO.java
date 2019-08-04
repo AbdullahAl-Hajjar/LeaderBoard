@@ -6,10 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- *
- * @author Gyp
- */
+
 public class PlayerDAO extends GenericDAO<Player>
 {
 
