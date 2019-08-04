@@ -12,10 +12,7 @@ import entity.Username;
 import java.util.Arrays;
 import java.util.Map;
 
-/**
- *
- * @author Shariar
- */
+
 public class UsernameTableViewFancy extends HttpServlet {
 
     /**
