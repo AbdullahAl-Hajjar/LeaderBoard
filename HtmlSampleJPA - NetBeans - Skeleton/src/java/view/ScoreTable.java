@@ -20,10 +20,7 @@ import logic.PlayerLogic;
 import logic.ScoreLogic;
 import logic.UsernameLogic;
 
-/**
- *
- * @author Gyp
- */
+
 public class ScoreTable extends HttpServlet {
 
     /**
