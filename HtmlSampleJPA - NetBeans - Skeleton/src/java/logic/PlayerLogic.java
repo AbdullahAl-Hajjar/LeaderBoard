@@ -16,10 +16,6 @@ import java.util.regex.Pattern;
 import org.eclipse.jdt.core.compiler.InvalidInputException;
 
 
-/**
- *
- * @author Gyp
- */
 public class PlayerLogic extends GenericLogic<Player, PlayerDAO>
 { 
     public static final String ID  = "id";
