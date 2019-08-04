@@ -18,10 +18,7 @@ import logic.PlayerLogic;
 import logic.UsernameLogic;
 import org.eclipse.jdt.core.compiler.InvalidInputException;
 
-/**
- *
- * @author Gyp
- */
+
 public class PlayerTable extends HttpServlet {
 
     /**
