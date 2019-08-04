@@ -7,11 +7,7 @@ import java.util.List;
 import java.util.Map;
 import logic.UsernameLogic;
 
-/**
- *
- * @author Shariar Emami
- * @since Jan 14, 2019
- */
+
 public class UsernameDAO extends GenericDAO<Username> {
 
     public UsernameDAO() {
